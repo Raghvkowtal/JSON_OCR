@@ -1,0 +1,50 @@
+{
+    "patient_full_name": {
+        "extracted_text": ""
+    },
+    "date_of_birth": {
+        "extracted_text": ""
+    },
+    "email": {
+        "extracted_text": ""
+    },
+    "home_address": {
+        "extracted_text": ""
+    },
+    "apt": {
+        "extracted_text": ""
+    },
+    "city": {
+        "extracted_text": ""
+    },
+    "state": {
+        "extracted_text": ""
+    },
+    "zipcode": {
+        "extracted_text": "A"
+    },
+    "phone1": {
+        "extracted_text": "64"
+    },
+    "emergency_contact": {
+        "extracted_text": ""
+    },
+    "phone2": {
+        "extracted_text": ""
+    },
+    "primary_insurance": {
+        "extracted_text": "#91a55"
+    },
+    "policy": {
+        "extracted_text": "Smhn"
+    },
+    "secondary_insurance": {
+        "extracted_text": "infoimatic"
+    },
+    "policy_number": {
+        "extracted_text": "infoimatic"
+    },
+    "secondary_phone": {
+        "extracted_text": "477t-"
+    }
+}

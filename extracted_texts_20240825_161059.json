@@ -1,0 +1,56 @@
+{
+    "patient_full_name": {
+        "extracted_text": "ledilddd;ridlly",
+        "accuracy": 7.940228669652599
+    },
+    "date_of_birth": {
+        "extracted_text": "4dcq?i",
+        "accuracy": 7.56940434058713
+    },
+    "email": {
+        "extracted_text": ""
+    },
+    "home_address": {
+        "extracted_text": ""
+    },
+    "apt": {
+        "extracted_text": ""
+    },
+    "city": {
+        "extracted_text": "pucaldxpomucIftch",
+        "accuracy": 3.5426247264527486
+    },
+    "state": {
+        "extracted_text": "IIF",
+        "accuracy": 54.96757033166632
+    },
+    "zipcode": {
+        "extracted_text": "Rdllr",
+        "accuracy": 6.318557572979369
+    },
+    "phone1": {
+        "extracted_text": "iiicit",
+        "accuracy": 5.2941366310298115
+    },
+    "emergency_contact": {
+        "extracted_text": ""
+    },
+    "phone2": {
+        "extracted_text": ""
+    },
+    "primary_insurance": {
+        "extracted_text": ""
+    },
+    "policy": {
+        "extracted_text": ""
+    },
+    "secondary_insurance": {
+        "extracted_text": ""
+    },
+    "policy_number": {
+        "extracted_text": ""
+    },
+    "secondary_phone": {
+        "extracted_text": ""
+    }
+}

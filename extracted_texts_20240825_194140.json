@@ -1,0 +1,50 @@
+{
+    "patient_full_name": {
+        "extracted_text": ""
+    },
+    "date_of_birth": {
+        "extracted_text": ""
+    },
+    "email": {
+        "extracted_text": "Mek"
+    },
+    "home_address": {
+        "extracted_text": "aGbxt"
+    },
+    "apt": {
+        "extracted_text": ""
+    },
+    "city": {
+        "extracted_text": ""
+    },
+    "state": {
+        "extracted_text": ""
+    },
+    "zipcode": {
+        "extracted_text": ""
+    },
+    "phone1": {
+        "extracted_text": ""
+    },
+    "emergency_contact": {
+        "extracted_text": ""
+    },
+    "phone2": {
+        "extracted_text": "1*)-Fum:"
+    },
+    "primary_insurance": {
+        "extracted_text": ""
+    },
+    "policy": {
+        "extracted_text": "IO:"
+    },
+    "secondary_insurance": {
+        "extracted_text": "Riite;"
+    },
+    "policy_number": {
+        "extracted_text": "Riite;"
+    },
+    "secondary_phone": {
+        "extracted_text": ""
+    }
+}
